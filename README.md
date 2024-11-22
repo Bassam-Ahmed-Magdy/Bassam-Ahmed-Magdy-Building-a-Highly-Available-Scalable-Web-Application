@@ -2,10 +2,10 @@
 Project Documentation: Building 
 a Highly Available, Scalable 
 Web Application
-Supervised by : DR . Ahmed El-Hamy
-Name: Bassam Ahmed Magdy Mohamed
-Student Number : 21050513
 Table of Contents
+
+![image](https://github.com/user-attachments/assets/be9c9672-3b85-44b3-a76d-e2537b1eb040)
+
 1. Introduction
 2. Phase 1: Planning and Design
 o 1.1 Architectural Diagram
